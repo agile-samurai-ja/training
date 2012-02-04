@@ -1,44 +1,35 @@
 ---
 layout: page
-title: Hello World!
+title: アジャイルサムライ トレーニングのご案内
 ---
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## トレーニングコースのご案内
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+書籍『アジャイルサムライ』の内容に関連した、実践的なトレーニングを実施します。現場での実践に必要な知識と心構えを、豊富な知識と経験を有する講師がレクチャーいたします。
 
-## Update Author Attributes
+## 主催
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+[株式会社永和システムマネジメント](http://www.esm.co.jp/)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+## 開催コース一覧
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date: '%Y-%m-%d(%a)') }}</span> :  <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
-## To-Do
+## 書籍『アジャイルサムライ』
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+個別のアジャイル手法にとらわれることなく、アジャイル開発の実践に必要な内容を包括的に紹介した一冊です。
+
+本書は、株式会社永和システムマネジメントの近藤修平、角掛 拓未が翻訳し、西村直人と角谷信太郎が監訳いたしました。
 
 
+![『アジャイルサムライ』](/assets/training/agile-samurai-ja-cover.png "『アジャイルサムライ』")
+
+オンラインで書籍を購入する:
+
+* [オーム社eStore(β)](http://estore.ohmsha.co.jp/titles/978427406856P)(書籍およびPDF)
+* [Amazon.co.jp](http://www.amazon.co.jp/dp/4274068560)(書籍)

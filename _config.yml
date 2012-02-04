@@ -1,6 +1,6 @@
-# This is the default format. 
+# This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title
 auto: true
 pygments: true
 var:
@@ -9,14 +9,12 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Bootstrap
+production_url : agile-samurai-ja.github.com/training
+title : Agile Samurai Training
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedbuder : feedname
+  name : アジャイルサムライトレーニング
+  email : kakutani@esm.co.jp
+  github : agile-samurai-ja
 
 exclude: .rbenv-version
