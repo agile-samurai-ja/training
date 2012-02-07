@@ -1,6 +1,7 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /training/:year/:month/:day/:title
+baseurl: /training
+permalink: /:year/:month/:day/:title
 auto: true
 pygments: true
 var:

@@ -16,7 +16,7 @@ title: アジャイルサムライ トレーニングのご案内
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date: '%Y-%m-%d(%a)') }}</span> :  <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date: '%Y-%m-%d(%a)') }}</span> :  <a href="/training{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
