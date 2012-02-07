@@ -27,7 +27,7 @@ title: アジャイルサムライ トレーニングのご案内
 本書は、株式会社永和システムマネジメントの近藤修平、角掛 拓未が翻訳し、西村直人と角谷信太郎が監訳いたしました。
 
 
-![『アジャイルサムライ』](/assets/training/agile-samurai-ja-cover.png "『アジャイルサムライ』")
+![『アジャイルサムライ』](/training/assets/training/agile-samurai-ja-cover.png "『アジャイルサムライ』")
 
 オンラインで書籍を購入する:
 

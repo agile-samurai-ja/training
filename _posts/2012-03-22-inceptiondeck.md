@@ -29,13 +29,13 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 **[Jonathan Rasmusson](http://twitter.com/jrasmusson)** (『アジャイルサムライ』 原著者)
 
-![jrasmusson](/assets/training/jrasmusson.jpg "jrasmusson")
+![jrasmusson](/training/assets/training/jrasmusson.jpg "jrasmusson")
 
 
 サポート: **[西村直人](http://twitter.com/nawoto)**、**[角谷信太郎](http://twitter.com/kakutani)**(『アジャイルサムライ』監訳者)
 
-![nawoto](/assets/training/nawoto.jpg "nawoto")
-![kakutani](/assets/training/kakutani.png "kakutani")
+![nawoto](/training/assets/training/nawoto.jpg "nawoto")
+![kakutani](/training/assets/training/kakutani.png "kakutani")
 
 (**英語による実施です**。通訳はありませんが、監訳者たちがトレーニングの進行をサポートいたします)
 
