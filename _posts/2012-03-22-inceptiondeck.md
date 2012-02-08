@@ -25,7 +25,7 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 (東京都千代田区麹町三丁目6番地 住友不動産麹町ビル3号 6F ([地図](http://www.kddi-webcommunications.co.jp/corporate/map.html))
 
-![kddi-web](/training/assets/training/kddi-web.png, "kddi-web")
+![kddi-web](/training/assets/training/kddi-web.png "kddi-web")
 
 ## 講師
 
@@ -123,3 +123,5 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 
 {% include training/registration-201203.md %}
+
+{% include training/social_buttons.html %}

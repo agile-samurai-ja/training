@@ -9,6 +9,8 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 今回は『アジャイルサムライ』原著者であるJonathan Rasmussonの来日に合わせて、『アジャイルサムライ』で示されるているアジャイルチームを育むためのリーダーシップについて、『アジャイルサムライ』著者本人が講師となってトレーニングを実施いたします。貴重な機会を是非ご活用ください。
 
+
+
 # 開催概要
 
 ## 日時
@@ -74,3 +76,5 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 - 請求書発行・銀行振込によるお申し込み: **45,000円(税込)**
 
 {% include training/registration-201203.md %}
+
+{% include training/social_buttons.html %}
