@@ -25,6 +25,8 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 (東京都千代田区麹町三丁目6番地 住友不動産麹町ビル3号 6F ([地図](http://www.kddi-webcommunications.co.jp/corporate/map.html))
 
+![kddi-web](/training/assets/training/kddi-web.png, "kddi-web")
+
 ## 講師
 
 **[Jonathan Rasmusson](http://twitter.com/jrasmusson)** (『アジャイルサムライ』 原著者)
@@ -38,6 +40,10 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 ![kakutani](/training/assets/training/kakutani.png "kakutani")
 
 (**英語による実施です**。通訳はありませんが、監訳者たちがトレーニングの進行をサポートいたします)
+
+## 主催
+
+[株式会社永和システムマネジメント](http://www.esm.co.jp/)
 
 ## 対象者
 
