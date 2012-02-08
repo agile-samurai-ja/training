@@ -124,4 +124,8 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 {% include training/registration-201203.md %}
 
+## お問い合わせ
+
+トレーニングに関するお問い合わせは、 kakutani at esm dot co dot jp までメールでお願いいたします。
+
 {% include training/social_buttons.html %}
