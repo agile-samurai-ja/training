@@ -37,7 +37,7 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 ![nawoto](/training/assets/training/nawoto.jpg "nawoto")
 ![kakutani](/training/assets/training/kakutani.png "kakutani")
 
-(**英語による実施です**。通訳はありませんが、監訳者たちがトレーニングの進行をサポートいたします)
+(**英語による実施です**。<strike>通訳はありませんが</strike>**和智右桂さんに通訳(逐次)を担当いただきます**。ワークショップなどトレーニングの進行は監訳者たちもサポートいたします)
 
 ## 主催
 
