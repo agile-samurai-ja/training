@@ -33,13 +33,17 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 
 ![jrasmusson](/training/assets/training/jrasmusson.jpg "jrasmusson")
 
+**英語による実施です**。和智右桂さんに逐次通訳を担当いただきます。ワークショップなどトレーニングの進行は監訳者たちがサポートいたします。
+
 
 サポート: **[西村直人](http://twitter.com/nawoto)**、**[角谷信太郎](http://twitter.com/kakutani)**(『アジャイルサムライ』監訳者)
 
 ![nawoto](/training/assets/training/nawoto.jpg "nawoto")
 ![kakutani](/training/assets/training/kakutani.png "kakutani")
 
-(**英語による実施です**。<strike>通訳はありませんが</strike>**和智右桂さんに通訳(逐次)を担当いただきます**。ワークショップなどトレーニングの進行は監訳者たちもサポートいたします)
+通訳(逐次): **[和智右桂](http://twitter.com/digitalsoul0124)**([グロースエクスパートナーズ株式会社](http://www.gxp.co.jp/))
+
+![digitalsoul0124](/training/assets/training/digitalsoul0124.jpg "digitalsoul0124")
 
 ## 主催
 
