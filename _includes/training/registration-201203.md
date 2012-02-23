@@ -16,3 +16,7 @@
 上記の「個人情報の取り扱いについて」を読んで同意いただいた上で、下記のリンク先から受講の申し込みをお願いします。
 
 **[{{ page.title }}への申し込み<br/>(Google Spreadsheet Form)](https://docs.google.com/spreadsheet/viewform?formkey={{ page.google_form_key }})**
+
+### 受講のキャンセルについて
+
+開催当日から7日前以降の受講者都合によるキャンセルの返金には応じかねます。悪しからずご了承ください。
