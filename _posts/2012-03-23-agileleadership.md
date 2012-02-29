@@ -76,10 +76,12 @@ google_form_key: dGpNM01VTXVQWG9uRy1qWHRpbC1jcmc6MQ
 - PayPalによるオンライン決済: **40,000円(税込)**
 - 請求書発行・銀行振込によるお申し込み: **55,000円(税込)**
 
-## 早期割引(2/29お申し込み分まで)
+## <strike>早期割引(2/29お申し込み分まで)</strike>
 
-- <del>PayPalによるオンライン決済: 30,000円(税込)</del>終了しました
-- <del>請求書発行・銀行振込によるお申し込み: **45,000円(税込)</del>終了しました
+<ul>
+  <li><strike>PayPalによるオンライン決済: 30,000円(税込)</strike><span>終了しました</span></li>
+  <li><strike>請求書発行・銀行振込によるお申し込み: 45,000円(税込)</strike><span>終了しました</span></li>
+</ul>
 
 {% include training/registration-201203.md %}
 
